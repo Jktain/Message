@@ -1,0 +1,52 @@
+.App {
+    margin: 100px;
+    width: 800px; 
+}
+
+.font {
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.issues-form {
+    margin-top: 12px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.issues-column {
+    border: 2px solid red;
+    flex: auto;
+    background-color: rgb(199, 199, 199);
+    height: 570px;
+    width: 270px;
+}
+
+.issues-list-item {
+    border: 2px solid red;
+    margin: 17px;
+    height: 80px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.list-name {
+    text-align: center;
+    flex: auto;
+    font-size: 18px;
+}
+
+.item-spn {
+    display: block;
+    color: grey;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.a {
+    color: rgb(50, 50, 255);
+    font-size: 15px;
+    text-decoration: none;
+}

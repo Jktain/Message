@@ -1,0 +1,12 @@
+import React from 'react'
+
+const AppHeader = () => {
+    return (
+        <div className='app-header d-flex'>
+            <h1>Ivan Petr</h1>
+            <h2>5 записів, з них сподобалось 0</h2>
+        </div>
+    )
+}
+
+export default AppHeader
