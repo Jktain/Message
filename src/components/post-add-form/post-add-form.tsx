@@ -1,4 +1,5 @@
 import React from 'react';
+import './post-add-form.css'
 
 const PostAddForm = () => {
     return (
@@ -10,6 +11,7 @@ const PostAddForm = () => {
             />
             <button
                 type='submit'
+                 
                 className='btn btn-outline-secondary'>
                 Додати
             </button>
